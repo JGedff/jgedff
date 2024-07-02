@@ -7,12 +7,12 @@
 
 - 📫 Gmail: **jordimarmi1@gmail.com**
 
-<h3 align="left">Contacta'm:</h3>
+<h3 align="left">Connecta amb mi:</h3>
 <p align="left">
 <a href="https://twitter.com/jordi_marm49345" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jordi_marm49345" height="30" width="40" />
 </a>
-<a href="https://linkedin.com/in/jordi marmi martínez" target="blank">
+<a href="https://www.linkedin.com/in/jordi-marmi-mart%C3%ADnez-83a716262/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jordi marmi martínez" height="30" width="40" /></a>
 </p>
 
