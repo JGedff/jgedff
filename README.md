@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jordi Marmi Martínez</h1>
 <h3 align="center">A passionate software developer</h3>
 
-- 🌱 I’m currently learning **C#**
-
 - 👨‍💻 All of my projects are available at [https://github.com/JGedff](https://github.com/JGedff)
 
 - 📫 Gmail: **jordimarmi1@gmail.com**
